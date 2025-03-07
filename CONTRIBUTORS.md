@@ -22,8 +22,8 @@ After fixing an issue and submitting a Pull Request (PR), update this file by ad
 - **[Satyam Kumar](https://github.com/isatyamks)** – Project Lead, AI/ML Head  
 - **[Contributor Name](https://github.com/username)** – Fixed [Issue #1](URL)  
 - **[Contributor Name](https://github.com/username)** – Fixed [Issue #2](URL)  
-- **[Contributor Name](https://github.com/username)** – Fixed [Issue #3](URL)  
-
+- **[Contributor Name](https://github.com/username)** – Fixed [Issue #3](URL)
+- **[sargamgit](https://github.com/sargamsahu1011)** – Fixed [Issue #3](URL)
 _(More contributors will be added as they make contributions!)_  
 
 ---
